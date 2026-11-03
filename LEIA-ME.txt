@@ -1,0 +1,18 @@
+# Portfólio Gabriel Manzoni — publicação
+
+## Contatos
+1. Abra `index.html` em um editor de texto, ou no GitHub clique em `index.html` → ícone do lápis.
+2. Perto do final, encontre `const MEUS_CONTATOS`.
+3. Preencha, por exemplo:
+   `email: "seunome@gmail.com",`
+   `instagram: "@seuusuario"`
+4. Salve as alterações / Commit changes. O site público será atualizado.
+
+## Foto
+Para colocar a foto permanentemente, envie uma imagem JPG chamada **foto.jpg** para a **mesma pasta do index.html** no GitHub. O botão "Adicionar foto" na página é apenas pré-visualização local.
+
+## GitHub Pages
+1. Crie um repositório público no GitHub (ex.: `tennis`).
+2. Envie `index.html` à raiz do repositório; opcionalmente envie `foto.jpg`.
+3. Settings → Pages → Source: Deploy from a branch → Branch: main → Folder: /(root) → Save.
+4. O endereço será `https://SEU-USUARIO.github.io/tennis/`.
